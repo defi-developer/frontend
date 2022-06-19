@@ -8,6 +8,7 @@
   "dependencies": {
     "@mui/material": "^5.8.4",
     "@reduxjs/toolkit": "^1.8.2",
+    "@types/use-sync-external-store": "^0.0.3",
     "framer-motion": "^6.3.11",
     "next": "latest",
     "react": "18.1.0",
